@@ -1,0 +1,24 @@
+.colorrr{background-color: #c9ebea;}
+form{margin-left: 180px;margin-top: 70px;}
+.ref-id label b{font-size: 18px;margin-left: 14px;}
+.ref-id input{width:300px;margin-left:10px;}
+.ref-id{margin-top: 10px;margin-left: 70px;}
+.prod-name{margin-top: 20px;margin-left: 55px;}
+.prod-name label b{font-size: 18px;}
+.prod-name input{width:300px;margin-left:10px;}
+.prod-quan{margin-top: 20px;margin-left: 17px;}
+.prod-quan label b{font-size: 18px;margin-left: 72px;}
+.prod-quan input{width:200px;margin-left:10px;}
+.prod-stock{margin-top: 20px;margin-left:63px;}
+.prod-stock label b{font-size: 18px;}
+.prod-stock input{width:300px;margin-left:10px;}
+.prod-color{margin-top: 20px;margin-left: 22px;}
+.prod-color label b{font-size: 18px;}
+.prod-color input{width:300px;margin-left:10px;}
+.prod-brand{margin-top: 20px;margin-left: 61px;}
+.prod-brand label b{font-size: 18px;}
+.prod-brand input{width:300px;margin-left:10px;}
+.prod-price{margin-top: 20px;margin-left: 88px;}
+.prod-price label b{font-size: 18px;}
+.prod-price input{width:300px;margin-left:10px;}
+.submit{margin-top: 30px;margin-left: 240px;}
